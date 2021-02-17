@@ -31,6 +31,14 @@ Dependencies
         $ sudo apt-get install nmap
 
 
+Install from PyPI
+~~~~~~~~~~~~~~~~~
+
+.. code:: bash
+
+    $ pip install mac-to-ip
+
+
 Usage example
 -------------
 
