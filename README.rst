@@ -6,8 +6,8 @@ MAC to IP
 .. image:: https://img.shields.io/pypi/v/mac_to_ip.svg
         :target: https://pypi.python.org/pypi/mac_to_ip
 
-.. image:: https://img.shields.io/travis/cartovarc/mac_to_ip.svg
-        :target: https://travis-ci.com/cartovarc/mac_to_ip
+.. image:: https://api.travis-ci.com/cartovarc/mac-to-ip.svg?branch=master
+        :target: https://travis-ci.com/github/cartovarc/mac-to-ip
 
 .. image:: https://readthedocs.org/projects/mac-to-ip/badge/?version=latest
         :target: https://mac-to-ip.readthedocs.io/en/latest/?badge=latest
