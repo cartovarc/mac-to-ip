@@ -13,7 +13,8 @@ MAC to IP
         :target: https://mac-to-ip.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-
+.. image:: https://pepy.tech/badge/mac-to-ip/month
+        :target: https://pepy.tech/project/mac-to-ip
 
 
 Find ip addresses with known MAC addresses
